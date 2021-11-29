@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**jeje0410/jeje0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on BNP PARIBAS CARDIF
+- 🌱 I’m currently learning DATA SCIENCE & MACHINE LEARNING
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/His
+
+## Ma Formation
+Data Scientist
+Analysez des données pour identifier des tendances et faire des prédictions... Maîtrisez la Data Science !
+
+Parcours avec OPENCLASSROOMS, en partenariat avec CENTRAL SUP&Eacute;LEC
+
+### Projet 6 : Catégorisez automatiquement des questions
