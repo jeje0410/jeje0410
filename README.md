@@ -1,9 +1,7 @@
-# Hi there 👋
+# Bonjour 👋
 
-- 🔭 I’m currently working on BNP PARIBAS CARDIF
-- 🌱 I’m currently learning DATA SCIENCE & MACHINE LEARNING
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: He/His
+- 🔭 Je travaille actuellement chez BNP PARIBAS CARDIF
+- 🌱 Je suis une formation de DATA SCIENCE & MACHINE LEARNING
 
 ## Ma Formation
 Data Scientist
