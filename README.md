@@ -1,7 +1,7 @@
 # Bonjour 👋
 
-- 🔭 Je travaille actuellement chez BNP PARIBAS CARDIF
-- 🌱 Je suis une formation de DATA SCIENCE & MACHINE LEARNING
+- 🔭 Je travaille actuellement chez BNP PARIBAS FRESH
+- 🌱 J'ai suivi la formation de Data Scentist de Mai 2021 à Avril 2022
 
 ## Ma Formation
 Data Scientist
