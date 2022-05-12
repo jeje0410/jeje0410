@@ -9,6 +9,9 @@ Analysez des données pour identifier des tendances et faire des prédictions...
 
 Parcours avec OPENCLASSROOMS, en partenariat avec CENTRAL SUP&Eacute;LEC
 
+### Projet 5 : Segementez les clients
+https://github.com/jeje0410/P5_Segmentation_Client
+
 ### Projet 6 : Catégorisez automatiquement des questions
 https://github.com/jeje0410/P6_Categorisation_questions
 
