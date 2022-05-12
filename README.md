@@ -9,6 +9,9 @@ Analysez des données pour identifier des tendances et faire des prédictions...
 
 Parcours avec OPENCLASSROOMS, en partenariat avec CENTRAL SUP&Eacute;LEC
 
+### Projet 2 : Analysez des données nutritionnelles
+https://github.com/jeje0410/P2_Analyse_donnees_nutritionnelles
+
 ### Projet 3 : Proposer des films similaires
 https://github.com/jeje0410/P3_Recommandation_Film
 
