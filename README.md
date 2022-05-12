@@ -14,3 +14,6 @@ https://github.com/jeje0410/P6_Categorisation_questions
 
 ### Projet 7 : Réalisez des indexations automatiques d’images
 https://github.com/jeje0410/P7_Indexations_images
+
+### Projet 8 : Catégorisez automatiquement des questions avec les réseaux de neurones (Transformers)
+https://github.com/jeje0410/P8_Categorisation_questions_reseauNeurone
